@@ -10,3 +10,17 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+REQUIREMENTS
+
+What information is needed?
+- blind click counter
+- shopify referral link
+- weather data from noaa
+- tide data from noaa
+- offshore swell data from noaa
+
+does each user see something different depending on who they are?
+does there need to be an admin capability?
+how will a purchase link be integrated?
